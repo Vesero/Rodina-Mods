@@ -1,2 +1,1 @@
-# Rodina-Mods
-mods
+# Rodina Mods by XVesero
