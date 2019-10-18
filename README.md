@@ -1,2 +1,2 @@
-# Skyboxes
-Please change "SkyboxResolution" to 2048 in "Rodina\Scripts\DataGameplay\EGOptions.lua" for first and second skyboxes "skyboxbyxvesero.zip".
+# Request 
+Always read my readme file in the archive. It says how to install the mod and what needs to be changed in order for the modification to work properly!
